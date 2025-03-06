@@ -72,4 +72,9 @@ public function signup(Request $request){
 
 route:
 Route::post('signup',[AutController::class, 'signup']);
+
+for login:
+
+
+login route:
 Route::post('login',[AutController::class, 'login']);
