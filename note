@@ -312,3 +312,6 @@ use HasFactory;
 //     Route::apiResource('posts',PostController::class);
 
 // });
+
+// make a common controlle to make code reduce and clean :
+// php artisan make:controller APi/ComController;
